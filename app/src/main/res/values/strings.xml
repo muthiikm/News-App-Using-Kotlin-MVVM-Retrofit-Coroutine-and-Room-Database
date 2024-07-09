@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">News-App-Using-Kotlin-MVVM-Retrofit-Coroutine-and-Room-Database</string>
+
+    <string name="Search">Search</string>
+    <string name="Headlines">Headlines</string>
+    <string name="Favorites">Favorites</string>
+    <string name="NoInternet">No Internet</string>
+    <string name="retry">Retry</string>
+    <string name="searchNews">Search news...</string>
 </resources>
