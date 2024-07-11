@@ -1,11 +1,11 @@
 package com.news_app_using_kotlin_mvvm_retrofit_coroutine_and_room_database.ui.theme.fragments
 
 import android.os.Bundle
-import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.news_app_using_kotlin_mvvm_retrofit_coroutine_and_room_database.R
+import androidx.fragment.app.Fragment
+import com.example.newsprojectpractice.R
 
 // TODO: Rename parameter arguments, choose names that match
 // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER

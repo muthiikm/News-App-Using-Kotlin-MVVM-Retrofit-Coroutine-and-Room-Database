@@ -17,7 +17,7 @@
         android:theme="@style/Theme.NewsAppUsingKotlinMVVMRetrofitCoroutineandRoomDatabase"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name="com.news_app_using_kotlin_mvvm_retrofit_coroutine_and_room_database.uin.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.NewsAppUsingKotlinMVVMRetrofitCoroutineandRoomDatabase">
