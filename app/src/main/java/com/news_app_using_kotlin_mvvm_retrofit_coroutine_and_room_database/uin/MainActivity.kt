@@ -1,4 +1,4 @@
-package com.news_app_using_kotlin_mvvm_retrofit_coroutine_and_room_database
+package com.news_app_using_kotlin_mvvm_retrofit_coroutine_and_room_database.uin
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
