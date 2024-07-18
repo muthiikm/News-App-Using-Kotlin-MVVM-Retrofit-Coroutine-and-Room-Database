@@ -6,7 +6,6 @@ import androidx.room.Delete
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
-import com.news_app_using_kotlin_mvvm_retrofit_coroutine_and_room_database.models.Article
 import com.news_app_using_kotlin_mvvm_retrofit_coroutine_and_room_database.ui.theme.models.Article
 
 @Dao
